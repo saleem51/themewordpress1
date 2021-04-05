@@ -1,0 +1,43 @@
+@charset "UTF-8";
+/*
+Theme Name: saison
+Author: saleem51
+Author URI: https://salimweb.fr
+Text Domain: saison
+Tags: one-column, flexible-header, accessibility-ready, custom-colors, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, rtl-language-support, sticky-post, threaded-comments, translation-ready
+*/
+
+.m-dw-30 {margin-bottom: 30px;
+}
+
+.img-responsive{
+    width: 100px; 
+    height: 100px;
+}
+
+.firstTitle {
+    color: #FFF;
+}
+
+.nav-link:hover{
+    background-color: #17a2b8!important;
+    color:#FFF!important;
+}
+
+.footdiv{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.foot-color {
+  
+    color: #FFF;
+}
+
+footer {
+    
+position:fixed;
+bottom:0;
+width:100%;
+}
